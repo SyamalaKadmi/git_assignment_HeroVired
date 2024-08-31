@@ -27,7 +27,7 @@ Assignment related steps should be clearly mentioned in the README.md file of th
    --> Dev branch is merged to main branch
    --> Created 2nd version of release with "calculator_plus_app_v2" tag
 
-2.  Git LFS (Large File Storage) integration
+3.  Git LFS (Large File Storage) integration
    --> Created a new branch "lfs" in local Git "git checkout -b lfs"
    --> Downloaded a large binary file of size > 200 MB
    --> To integrate Git LFS, git lfs track "*.bin" --> extension type
