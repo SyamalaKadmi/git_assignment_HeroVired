@@ -1,3 +1,5 @@
+#Calculator application to perform Addition, Subtraction, Multiplication, Division and Square root operations
+
 import math
 
 class Calculator:
